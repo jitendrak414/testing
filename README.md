@@ -1,2 +1,2 @@
 # testing
-React Testing
+Jest Testing
