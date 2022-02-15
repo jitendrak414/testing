@@ -46,16 +46,17 @@ If you are try to writing **web application**
 
 
 ## Setting the project
-`mkdir block1 && cd $_`
-`npm init -y`
+    mkdir block1 && cd $_
+    npm init -y
 
-`Install Jest`
-`npm i jest --save-dev`
+    Install Jest
+    npm i jest --save-dev
 
-
+## Setting for browser error message
+    `npm install --save-dev jest-html-reporter`
 ## test-driven development
 
 ![Jitendra Kumar](https://tripline.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-15-at-4.54.04-AM.jpeg)
 
-### So now pickup your phone and donate 2 beer bottle(300/-PPP) and a Laptop to work more. PhonePpay me at 9319821922@ybl
+### So now pickup your phone and donate 2 beer bottle and for Laptop to work more. PhonePay me at 9319821922@ybl
 
