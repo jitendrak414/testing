@@ -56,7 +56,8 @@ If you are try to writing **web application**
     `npm install --save-dev jest-html-reporter`
 ## test-driven development
 
+### So now pickup your phone and donate 2 beer bottle and some ammount for Laptop to work more. PhonePay me at 9319821922@ybl
 ![Jitendra Kumar](https://tripline.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-15-at-4.54.04-AM.jpeg)
 
-### So now pickup your phone and donate 2 beer bottle and for Laptop to work more. PhonePay me at 9319821922@ybl
+
 
